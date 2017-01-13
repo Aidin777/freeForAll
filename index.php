@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Список статей</title>
+	<title>Список статей1</title>
 </head>
 <body>
 <?php
